@@ -10,6 +10,7 @@
 .. _Architecture Decomposition (Book ch04): https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ch04.html
 .. _What is component based architecture: https://www.mendix.com/blog/what-is-component-based-architecture/
 .. _Architectural styles vs architectural patterns: https://medium.com/@ali.gelenler/architectural-styles-vs-architectural-patterns-7fab51713470
+.. _Event-driven Architecture and Programming (Quantum Leaps): https://www.state-machine.com/event-driven-programming
 .. _Code structure and dependency visualization of large C project (reddit): https://www.reddit.com/r/embedded/comments/1025qfk/toolssoftware_for_visualizing_code/
 
    .. these 2 below are books recommended by David Faught from JDES
